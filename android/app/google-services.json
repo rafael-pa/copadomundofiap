@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377426647068",
+    "project_id": "trabalho-flutter-copa",
+    "storage_bucket": "trabalho-flutter-copa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377426647068:android:35a6a51fedf5fd9f38a7d9",
+        "android_client_info": {
+          "package_name": "br.com.fiap.copadomundofiap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377426647068-iar2jn98gorv6t6ma7a401msti2enhdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywZ0iXnX2d_NY-8gx3OegABbmERbUV9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377426647068-iar2jn98gorv6t6ma7a401msti2enhdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
